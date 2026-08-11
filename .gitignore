@@ -1,3 +1,4 @@
 node_modules
 kubectl
 minikube-darwin-arm64
+.DS_Store

@@ -1,7 +1,7 @@
 set -e
 
 NAME="kubernetes-demo-api"
-USERNAME="s1r15h"
+USERNAME="example"
 IMAGE="$USERNAME/$NAME:latest"
 
 echo "Building Docker image..."

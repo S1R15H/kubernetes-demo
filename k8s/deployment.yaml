@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: kubernetes-demo-api
-          image: s1r15h/kubernetes-demo-api:latest
+          image: username/kubernetes-demo-api:latest
           ports:
             - containerPort: 6789
           env:
